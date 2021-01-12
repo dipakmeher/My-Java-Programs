@@ -27,3 +27,10 @@ import java.io.*;
 		printStars(n); 
 	} 
 } 
+/* Output:-
+           * 
+         * * 
+       * * * 
+     * * * * 
+   * * * * *
+*/
